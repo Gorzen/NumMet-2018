@@ -1,1 +1,1 @@
-# NumMet-2018
+# Numerical Methods for Visual Computing
